@@ -1,5 +1,7 @@
 # sample-bench
 
+Test for fibonacci head recursive.
+
 Assuming thor repository is cloned in the current directory.
 
 Run with:
